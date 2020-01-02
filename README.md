@@ -6,8 +6,8 @@ https://www.udemy.com/course/the-complete-javascript-course/
 
 ## Notes and examples of the course content
 
- ###### Section 1 : Course Introduction
- ###### Section 2 : JavaScript Language Basics
+ ### Section 1 : Course Introduction
+ ### Section 2 : JavaScript Language Basics
  01. Hello World [Notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%202%20-%20JavaScript%20Language%20Basics/01-Hello_word.js)
  02. Variables and Data Types [Notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%202%20-%20JavaScript%20Language%20Basics/02-Variables_and_data_types.js)
  03. Variable Mutation and Type Coercion [Notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%202%20-%20JavaScript%20Language%20Basics/03-Variable_mutation_and_type_coercion.js)
@@ -33,4 +33,4 @@ https://www.udemy.com/course/the-complete-javascript-course/
  19. Loops and Iteration [Notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%202%20-%20JavaScript%20Language%20Basics/19-Loops_and_Iteration.js)
  20. Coding Challenge 5 [Notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%202%20-%20JavaScript%20Language%20Basics/20-Coding_Challenge_5.js)
 	* An advanced way to calculate BMI (Body Mass Index) implement with all the concept learned.
- ##### Section 3: How JavaScript Works Behind the Scenes
+ ### Section 3: How JavaScript Works Behind the Scenes
