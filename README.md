@@ -33,4 +33,8 @@ https://www.udemy.com/course/the-complete-javascript-course/
  19. Loops and Iteration [Notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%202%20-%20JavaScript%20Language%20Basics/19-Loops_and_Iteration.js)
  20. Coding Challenge 5 [Notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%202%20-%20JavaScript%20Language%20Basics/20-Coding_Challenge_5.js)
  - An advanced way to calculate BMI (Body Mass Index) implement with all the concept learned.
- ### Section 3: How JavaScript Works Behind the Scenes
+ ### Section 3: How JavaScript Works Behind the Scenes [notes](https://github.com/jaguilarodrigues/JavaScript_Course/blob/master/Section%203%20-%20How%20JavaScript%20Works%20Behind%20the%20Scenes/script.js)
+1. Execution Contexts and the Execution Stack
+2. Execution Contexts in Detail: Creation and Execution Phases and Hoisting
+3. Scoping and the Scope Chain
+4. The 'this' Keyword
